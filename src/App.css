@@ -7,6 +7,21 @@
   pointer-events: none;
 }
 
+.counter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+button {
+  width: 162px;
+  height: 70px;
+  font-size: large;
+  background-color: #03800094;
+  border-radius: 10px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
