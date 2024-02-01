@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 100px;
 }
 
 .App-logo {
@@ -7,6 +8,16 @@
   pointer-events: none;
 }
 
+h1{
+  margin: 50px;
+}
+
+input{
+  border-radius: 5px;
+  height: 20px;
+  width: 200px;
+  padding: 8px;
+}
 .counter{
   display: flex;
   align-items: center;
