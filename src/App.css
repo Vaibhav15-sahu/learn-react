@@ -18,6 +18,11 @@ input{
   width: 200px;
   padding: 8px;
 }
+
+.toggle-button{
+  margin-left: 100px;
+}
+
 .counter{
   display: flex;
   align-items: center;
